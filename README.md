@@ -14,7 +14,9 @@
 
 
 bash
+
 unzip iphoback-loongnix.zip && cd loongix-photo-backup
+
 sudo  ./install.sh    # 开始菜单出现「iPhoBack 相册备份」
 
 
